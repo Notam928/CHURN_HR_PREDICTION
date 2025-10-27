@@ -59,4 +59,4 @@ Placez votre fichier `Données_Et_Dictionnaire.xlsx` dans le même répertoire q
 4. Faites des prédictions individuelles
 
 ---
-Développé avec ❤️ pour l'analyse RH
+Développé par Junior Notam avec ❤️ pour l'analyse RH
